@@ -1,0 +1,9 @@
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\bin\Debug\Text.exe.config
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\bin\Debug\Text.exe
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\bin\Debug\Text.pdb
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.Form1.resources
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.Properties.Resources.resources
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.csproj.GenerateResource.Cache
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.exe
+c:\users\timo\documents\visual studio 2015\Projects\Text\Text\obj\Debug\Text.pdb
